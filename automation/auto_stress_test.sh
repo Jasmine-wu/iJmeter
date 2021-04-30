@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # 压测脚本模板中设定的压测时间应为60秒
-export jmx_template="mockTest"
+export jmx_template="mockMenuTest"
 export suffix=".jmx"
 export jmx_template_filename="${jmx_template}${suffix}"
 export os_type=`uname`
